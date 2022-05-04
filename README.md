@@ -8,7 +8,6 @@
 <h3> Status do projeto </h3>
 Finalizado
 
-<hr>
 <h3> Sobre o projeto </h3>
 
 Este projeto tem com o principal foco, previsão das notas finais dos alunos com base na análize de dados gerados através da realização do ENEM.
@@ -16,7 +15,6 @@ Este projeto tem com o principal foco, previsão das notas finais dos alunos com
 
 <h3> Como rodar? </h3>
 ....Em progresso
-<hr>
 
 
 <h3> Colaboradores  </h3>
